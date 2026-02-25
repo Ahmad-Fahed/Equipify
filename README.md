@@ -6,3 +6,8 @@ Equipify, is a secure and user-friendly platform that connects tool owners with 
  • Receive OTPs (One-Time Passwords) for secure rental confirmations.
  • Email notifications at every key step for clear communication.
  • A control panel for tool owners to manage listings, prices, and bookings.
+
+
+Check out this short video for a glimpse into the Equipify platform! 🎥👇
+
+https://lnkd.in/eZWABsFY
