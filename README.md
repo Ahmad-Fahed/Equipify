@@ -1,6 +1,7 @@
 Equipify, is a secure and user-friendly platform that connects tool owners with people who need to rent them — making tool sharing more affordable, flexible, and sustainable.
 
-🔧 Key Features of Equipify:
+
+Key Features of Equipify:
  • Search for tools by type, location, and availability.
  • Choose specific dates and times to rent tools.
  • Receive OTPs (One-Time Passwords) for secure rental confirmations.
@@ -8,6 +9,6 @@ Equipify, is a secure and user-friendly platform that connects tool owners with 
  • A control panel for tool owners to manage listings, prices, and bookings.
 
 
-Check out this short video for a glimpse into the Equipify platform! 🎥👇
+Check out this short video for a glimpse into the Equipify platform!
 
 https://lnkd.in/eZWABsFY
